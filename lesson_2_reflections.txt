@@ -1,0 +1,6 @@
+lesson_2_reflections.txt
+Initializing a repository creates a hidden
+.git folder but it appears only to track files that
+are added from that point forward. If there is a
+pre-existing file, you will have to use git add to
+start tracking it with git.
