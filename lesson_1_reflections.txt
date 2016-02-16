@@ -1,0 +1,20 @@
+Because the computer broke it down to the only lines where there were differences, it was much easier to find the bug. You didn't have to sift through all of the code.
+
+ I saw that the computer (at least in Git mode) thinks of changes as what's put it and what's taken out.
+
+In Windows command prompt mode, I saw that the compoter was focused on using line numbers to see where the changes were.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+If you knew when a particular bug started, you would be able to eliminate as causes all changes that were made eiher before or after the bug began.
+
+Also, it would be eesier to bring back stuff you wish you hadn't deleted. And you wouldn't have to save separate files manually, which takes time.
+
+HOw often saved?
+
+  How might using version control make you more confident to make changes that  could break something?
+
+You'd always know you could go back to one where there wasn't a problem! And you could even isolate which changes made the problem, automatically without having to think too hard.
+
+wHAT OT USE FOR?
+I want to keep track of my chanegs. But I also want to send code to github so that I can share with the UDactiy forum.
