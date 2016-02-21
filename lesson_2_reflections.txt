@@ -19,3 +19,13 @@ Since your commits will save multiple files, maybe the staging area cuts down on
 "How can you use the staging area to make sure you have one commit per logical change?"
 
 You can add your file to the staging area as you make changes, making sure in this way not to lose anything you might need to go back to. (at least, you can do this once) But you can thereby refrain from actually committing anythiing until you've finished with that particular logical change. so it give you a place to temporarily store stuff without committing to it (get it?).
+
+"What are some situations when branches would be helpful in keeping your history organized? How would branches help?"
+
+1) trying out something you weren't sure was going to wrk -- thus having multiple iterations of the latest experiment but making it super-easy to return to the last known version of the program that you knew worked
+
+2) I.E., when you're at a point where you know a particular commit is going to be pretty imporatnt -- branches would be a nice way to give a human-readable name to that key commit
+
+3) when you have multiple team members working on different pieces of a project, so you can merge the different aspects/pieces later without confusion
+
+
