@@ -28,4 +28,8 @@ You can add your file to the staging area as you make changes, making sure in th
 
 3) when you have multiple team members working on different pieces of a project, so you can merge the different aspects/pieces later without confusion
 
+"how do the diagrams help you visaulize the branch structure?"
+
+That's a funny question. They make it visual. Ummmm. I guess if more details is warrantged here, it would be to say that I hadn't actually realized until seeing the diagrams and talking about parents that you could actually end up with a commit that isn't reachable - that's lost. and also i think the diagram is a good reminder of how branches have some things in cmomon but not everything.
+
 
