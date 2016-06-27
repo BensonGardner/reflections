@@ -18,3 +18,12 @@ You'd always know you could go back to one where there wasn't a problem! And you
 
 wHAT OT USE FOR?
 I want to keep track of my chanegs. But I also want to send code to github so that I can share with the UDactiy forum.
+
+A
+B
+$
+C
+#
+%
+E
+F

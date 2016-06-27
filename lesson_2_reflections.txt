@@ -32,4 +32,19 @@ You can add your file to the staging area as you make changes, making sure in th
 
 That's a funny question. They make it visual. Ummmm. I guess if more details is warrantged here, it would be to say that I hadn't actually realized until seeing the diagrams and talking about parents that you could actually end up with a commit that isn't reachable - that's lost. and also i think the diagram is a good reminder of how branches have some things in cmomon but not everything.
 
+"What is the result of merging two branches together? Why do we represent it in the diagram the way we do?"
 
+it puts all the commits into one branch, and includes both changes. I actgually am not currently sure whether it includes
+all additions, no subtractions, or if you actually get to choose.
+
+they have both bracnehs point lines to a middle poitn which becomes a sort of new branch.
+
+it seems like something you want to do only once you're sure that this stuff is all done.
+
+"What are the pros and cons of Git’s automatic merging vs. always doing merges manually?"
+
+a lot of stuff is obvious, so the more time you can save by having git d othe merging, the better
+
+on the other hand, it can be confusing - you have to learn how git does stuff to understnad why stuff is turning out the way it is.
+
+so - learning curve at beginning, but lots less time down the road.
